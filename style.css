@@ -195,7 +195,7 @@ button:hover {
   background: var(--dark);
   color: var(--light);
   position: relative;
-  padding: 1em;
+  padding: 0.5em;
 }
 
 .emergency-contact h3:before {
